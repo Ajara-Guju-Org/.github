@@ -1,8 +1,8 @@
-# Welcome to Our Educational Organization
+# Welcome to Our Educational Team
 
-Welcome to **Ajara Guju Org**! 🎓
+Welcome to **Ajara Guju Team**! 🎓
 
-This organization was created with the goal of sharing and demonstrating various repositories for educational purposes, particularly for use in exams. Our repositories are designed to help students and learners understand key concepts, enhance their skills, and achieve academic success.
+This Team was created with the goal of sharing and demonstrating various repositories for educational purposes, particularly for use in exams. Our repositories are designed to help students and learners understand key concepts, enhance their skills, and achieve academic success.
 
 ## What We Do
 
@@ -29,6 +29,6 @@ We welcome contributions from everyone! If you’d like to contribute, follow th
 3. Make your changes.
 4. Submit a pull request with a clear explanation of your changes.
 
-Thank you for visiting **Ajara Guju Org**! We hope you find our resources helpful and inspiring.
+Thank you for visiting **Ajara Guju Team**! We hope you find our resources helpful and inspiring.
 
 Happy learning! 📚✨
